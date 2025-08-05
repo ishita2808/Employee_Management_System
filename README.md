@@ -1,1 +1,3 @@
 # Employee_Management_System
+The Employee Management System is a Java-based desktop application developed using Swing for the graphical user interface and JDBC for database connectivity. It provides a simple and user-friendly platform for managing employee records within an organization. Key features include secure login functionality, adding new employee details, viewing existing records, updating employee information, and removing employees from the system. This project is ideal for learning Java GUI development and understanding how to integrate a frontend interface with a backend database using JDBC.
+
